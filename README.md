@@ -19,10 +19,10 @@ To get started with this project, follow these steps:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/your-username/your-repository-name.git
-   Replace `your-username` and `your-repository-name` with your GitHub username and the repository name.
+   git clone https://github.com/Ashu1472002/Pizza-Sales-Analysis.git
    
 2.**Navigate to the Project Directory:**
+
   `cd your-repository-name`
 
 3.**Open the Power BI Template:**
