@@ -33,10 +33,10 @@ To get started with this project, follow these steps:
 
 ### Output
 
+![finalchange1](https://github.com/Ashu1472002/Pizza-Sales-Analysis/assets/71172888/3dbfdbf5-a10b-48ae-ac06-87f0d5e547a9)
+![finalchange2](https://github.com/Ashu1472002/Pizza-Sales-Analysis/assets/71172888/dc0d28f9-7bd6-4e37-b2f2-68c915857a31)
 
-![image](https://github.com/Ashu1472002/Pizza-Sales-Analysis/assets/71172888/0609c73f-78bd-43ed-a832-0e2f76a3a6ae)
 
-![image](https://github.com/Ashu1472002/Pizza-Sales-Analysis/assets/71172888/7dd0894f-24c0-41a4-b87d-283533236fdf)
 
 
 ### Usage
